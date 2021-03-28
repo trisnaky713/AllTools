@@ -16,4 +16,4 @@ DiScript Ini Kumpulan Scriot Paling Work Dan Terbaru.. Jangan Lewatkan Kesempata
 
 
 
-<img src="https://github.com/Yayan-XD/Cr4ck/blob/main/img/IMG_20210304_060211.jpg" />
+<img src="https://github.com/Dumai-991/AllTools/blob/main/Screenshot_2021-03-26-10-21-17-00.jpg" />
