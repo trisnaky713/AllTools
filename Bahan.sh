@@ -11,6 +11,7 @@ pkg install wget -y
 pkg install jq -y
 gem install lolcat -y
 pkg install nano -y
+reset
 
 echo "[ Ketik : python *.py Untuk Menjalankan Scripy AllTools ]"
 echo "INSTALL BAHAN SELESAI ATAU DONE !!!!!"
