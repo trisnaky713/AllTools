@@ -11,6 +11,10 @@ pkg install wget -y
 pkg install jq -y
 gem install lolcat -y
 pkg install nano -y
+pip install requste
+pip install python
+
+#Tambah Aja Sendiri
 reset
 cat *.txt
 echo "[ Ketik : python *.py Untuk Menjalankan Scripy AllTools ]"
