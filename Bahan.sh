@@ -1,16 +1,15 @@
-pkg update -y
-pkg upgarde -y
-pkg install python -y
-pkg install python2 -y
-pkg install toilet -y
-pkg install lolcat -y
-pkg install cowsay -y
-pkg install bash -y
-pkg install mc -y
-pkg install wget -y
-pkg install jq -y
-gem install lolcat -y
-pkg install nano -y
+apt update -y
+apt install python -y
+apt install python2 -y
+apt install toilet -y
+apt install lolcat -y
+apt install cowsay -y
+apt install bash -y
+apt install mc -y
+apt install wget -y
+apt install jq -y
+apt install lolcat -y
+apt install nano -y
 pip install requste
 pip install python
 
